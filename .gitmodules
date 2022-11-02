@@ -1,0 +1,3 @@
+[submodule "codecombat"]
+	path = codecombat
+	url = https://github.com/codecombat/codecombat.git
